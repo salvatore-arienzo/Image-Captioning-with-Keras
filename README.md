@@ -1,8 +1,8 @@
 # Image-Captioning-with-Keras
 
-<h2>Project for Context Aware Security Analitycs @ Unisa, Winter 2019<h2>
+## Project for Context Aware Security Analitycs @ Unisa, Winter 2019
 
-<h3>Abstract<h3>
+###  Abstract
   
 Image Captioning is the automatic generation of
 natural sentences that describe the contents of
@@ -21,7 +21,7 @@ evaluate the accuracy of the model the BLEU
 (Bilingual evaluation understudy) metrics and a
 custom metric have been used.
 
-<h3>Prerequisites<h3>
+### Prerequisites
   
 1. Install requirements.txt
 2. Download Dataset [here](https://www.kaggle.com/hsankesara/flickr-image-dataset).
