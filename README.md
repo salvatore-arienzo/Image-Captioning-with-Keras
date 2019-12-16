@@ -21,7 +21,7 @@ evaluate the accuracy of the model the BLEU
 (Bilingual evaluation understudy) metrics and a
 custom metric have been used.
 
-Prerequisites
+<h3>Prerequisites<h3>
   
 1. Install requirements.txt
 2. Download Dataset [here](https://www.kaggle.com/hsankesara/flickr-image-dataset).
