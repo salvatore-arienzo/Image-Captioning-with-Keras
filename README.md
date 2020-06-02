@@ -13,7 +13,7 @@ Image Captioning is the automatic generation of natural sentences that describe 
 <p align="center">
 <img width="300" height="300" src="https://github.com/salvatore-arienzo/Image-Captioning-with-Keras/blob/master/ppt/Example%204.png"> <img width="300" height="300" src="https://github.com/salvatore-arienzo/Image-Captioning-with-Keras/blob/master/ppt/example%203.png">
 </p>
-
+ 
 <p align="center">
 <img align="center" width="300" height="300" src="https://github.com/salvatore-arienzo/Image-Captioning-with-Keras/blob/master/ppt/cooking.png"> <img align="center" width="300" height="300" src="https://github.com/salvatore-arienzo/Image-Captioning-with-Keras/blob/master/ppt/GroupOfPeople.png">
 </p>
